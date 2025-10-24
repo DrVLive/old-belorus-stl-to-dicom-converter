@@ -1,0 +1,7 @@
+numpy>=1.22
+pillow>=9.5
+pydicom>=2.4
+# опционально для JPEG-сжатых DICOM:
+# pylibjpeg>=2.0
+# pylibjpeg-libjpeg>=2.0
+# pylibjpeg-openjpeg>=2.0
